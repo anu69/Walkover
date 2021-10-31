@@ -1,0 +1,45 @@
+.heading
+{
+   display: inline;
+}
+a{
+    float: left;
+    
+}
+.main
+{
+    text-align: center;
+    background: orange;
+}
+#design
+{
+    padding:5px;
+    margin: 5px;
+    background: orange;
+    color:white;
+}
+#design:hover{
+    background: green;
+}
+.oval {
+    width: 120px;
+    height: 20px;
+    border:1px solid black;
+    background: #a84909;
+    border-radius: 40px;
+    text-decoration:none ;
+}
+.oval:hover{
+    background: green;
+}
+body{
+    background: url("./backgroud1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title
+{
+    text-align: center;
+}
+
